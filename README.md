@@ -55,6 +55,9 @@ ISC
 https://powerful-refuge-24488.herokuapp.com/
 
 ## Pictures
+![Screenshot (214)](https://user-images.githubusercontent.com/77297220/162587421-1dce35c6-9bdd-4006-ba9e-3e1140c21017.png)
+
+![Screenshot (216)](https://user-images.githubusercontent.com/77297220/162587422-0edbeb29-0f29-4aa3-ae3f-2d3b78570a9e.png)
 
 ## License link
 (https://www.isc.org/licenses/)   
